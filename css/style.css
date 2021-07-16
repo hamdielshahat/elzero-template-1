@@ -366,3 +366,35 @@ body {
   color: #777;
 }
 /* about --------------------------------------------------------------------------- End */
+
+/* Contact --------------------------------------------------------------------------- Start */
+.contact {
+}
+.contact .info h3 {
+  font-size: 40px;
+  font-weight: 800;
+  color: var(--secondary-color);
+  margin-bottom: 10px;
+}
+.contact .info > a {
+  font-size: 30px;
+  text-decoration: none;
+  color: var(--main-color);
+  font-weight: 800;
+  display: inline-block;
+  padding: 10px;
+}
+.contact .info .social {
+  padding: 20px;
+}
+.contact .info .social .links {
+  display: inline-block;
+  margin-left: 20px;
+}
+.contact .info .social .links a {
+  color: #777;
+}
+.contact .info .social .links i {
+  padding: 10px;
+}
+/* Contact --------------------------------------------------------------------------- End */
