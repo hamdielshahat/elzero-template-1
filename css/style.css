@@ -2,6 +2,9 @@
   --main-color: #10cab7;
   --secondary-color: #2c4755;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 * {
   -webkit-box-sizing: border-box;
