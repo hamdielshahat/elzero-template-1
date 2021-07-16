@@ -398,3 +398,15 @@ body {
   padding: 10px;
 }
 /* Contact --------------------------------------------------------------------------- End */
+/* Footer --------------------------------------------------------------------------- Start */
+.footer {
+  background-color: var(--secondary-color);
+  color: white;
+  text-align: center;
+  padding: 30px 10px;
+}
+.footer span {
+  color: var(--main-color);
+  font-weight: bold;
+}
+/* Footer --------------------------------------------------------------------------- End */
